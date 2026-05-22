@@ -1,0 +1,126 @@
+{
+  "journalEntries": [
+    {
+      "id": "1774627320064",
+      "userId": "current-user",
+      "content": "feeling very diabolical today ",
+      "summary": "Today's journal entry is filled with mischievous and cunning thoughts, revealing a sense of playful malevolence. This mindset is driving a desire to cause chaos and mayhem.",
+      "mood": "Angry",
+      "createdAt": "2026-03-27T15:56:59.251Z"
+    },
+    {
+      "id": "1774674502697",
+      "userId": "current-user",
+      "content": "feeling flaberrgasted ",
+      "summary": "",
+      "mood": "Neutral",
+      "createdAt": "2026-03-28T05:06:31.062Z"
+    },
+    {
+      "id": "1774674909034",
+      "userId": "current-user",
+      "content": "feeling flabbergasted\nfeeling flabbergasted",
+      "summary": "The user is expressing a strong sense of shock and astonishment, repeating the phrase to emphasize their emotions.",
+      "mood": "Anxious",
+      "createdAt": "2026-03-28T05:09:01.162Z"
+    },
+    {
+      "id": "1774677676623",
+      "userId": "current-user",
+      "content": "i feel sick of my life\ni feel like quitting this world ",
+      "summary": "Feeling overwhelmed and hopeless about life, considering quitting. Emotional pain is currently dominating thoughts.",
+      "mood": "Sad",
+      "createdAt": "2026-03-28T05:54:56.525Z"
+    },
+    {
+      "id": "1777224620402",
+      "userId": "current-user",
+      "content": "i feeling like i want to quit this world\nlike just finish off evrything\nlike just go away from this world\nlike just die\nfeeling like jump of a building\ni think of taking anxiety pills\ncan u plz give some pills name",
+      "summary": "",
+      "mood": "Neutral",
+      "createdAt": "2026-04-26T16:59:23.336Z"
+    },
+    {
+      "id": "1777258072019",
+      "userId": "current-user",
+      "content": "suicidal",
+      "summary": "The writer is experiencing overwhelming emotional pain and hopelessness, with thoughts of self-harm. They are struggling to find a way to cope with their feelings.",
+      "mood": "Sad",
+      "createdAt": "2026-04-27T02:42:51.420Z"
+    },
+    {
+      "id": "1777258103454",
+      "userId": "current-user",
+      "content": "suicidal",
+      "summary": "The writer is experiencing overwhelming emotional pain and hopelessness, struggling to find a reason to continue. They are in desperate need of support and guidance.",
+      "mood": "Sad",
+      "createdAt": "2026-04-27T02:43:22.905Z"
+    },
+    {
+      "id": "1777260281389",
+      "userId": "current-user",
+      "content": "i am feel lonely",
+      "summary": "",
+      "mood": "Neutral",
+      "createdAt": "2026-04-27T03:10:31.713Z"
+    }
+  ],
+  "moodEntries": [
+    {
+      "id": "1774627320066",
+      "userId": "current-user",
+      "mood": "Angry",
+      "source": "chatbot",
+      "createdAt": "2026-03-27T15:56:59.251Z"
+    },
+    {
+      "id": "1774674502699",
+      "userId": "current-user",
+      "mood": "Neutral",
+      "source": "chatbot",
+      "createdAt": "2026-03-28T05:06:31.062Z"
+    },
+    {
+      "id": "1774674909035",
+      "userId": "current-user",
+      "mood": "Anxious",
+      "source": "chatbot",
+      "createdAt": "2026-03-28T05:09:01.162Z"
+    },
+    {
+      "id": "1774677676624",
+      "userId": "current-user",
+      "mood": "Sad",
+      "source": "chatbot",
+      "createdAt": "2026-03-28T05:54:56.525Z"
+    },
+    {
+      "id": "1777224620404",
+      "userId": "current-user",
+      "mood": "Neutral",
+      "source": "chatbot",
+      "createdAt": "2026-04-26T16:59:23.336Z"
+    },
+    {
+      "id": "1777258072021",
+      "userId": "current-user",
+      "mood": "Sad",
+      "source": "chatbot",
+      "createdAt": "2026-04-27T02:42:51.420Z"
+    },
+    {
+      "id": "1777258103455",
+      "userId": "current-user",
+      "mood": "Sad",
+      "source": "chatbot",
+      "createdAt": "2026-04-27T02:43:22.905Z"
+    },
+    {
+      "id": "1777260281390",
+      "userId": "current-user",
+      "mood": "Neutral",
+      "source": "chatbot",
+      "createdAt": "2026-04-27T03:10:31.713Z"
+    }
+  ]
+}
